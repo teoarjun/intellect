@@ -1,0 +1,12 @@
+export const BLACK = '#000000';
+export const WHITE = '#ffffff';
+export const BG_COLOR = '#96ccd5';
+export const ACTIVE_COLOR = '#5DABBA';
+export const LIGHT_GREY = '#F2F2F2';
+export const GREY = '#E5E5E5';
+export const LIGHT_BLACK = 'rgba(0, 0, 0, 0.08)';
+export const FONT_BLACK = 'rgba(0, 0, 0, 0.72)';
+export const BUTTON_COLOR = '#5EAAB6';
+export const FONT_BLUE = '#6DA18F';
+export const CHART_LABEL_COLOR = '#40DCFF';
+export const CHART_BG_COLOR = '#C5E9F1';
